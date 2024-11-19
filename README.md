@@ -1,4 +1,4 @@
-<h2><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NIM Agent Blueprint: Multimodal PDF Data Extraction</h2>
+<h2><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NVIDIA AI Blueprint: Multimodal PDF Data Extraction</h2>
 <p align="center">
   
 ![Multimodal PDF Data Extraction for Enterprise RAG-r2](https://github.com/user-attachments/assets/3f33a00b-0d72-4221-a250-04771cb703cc)
